@@ -1,2 +1,2 @@
 # hello-world
-Just another repo
+Learning Data Mining as part of my curriculum at McDaniel College. Having a great time so far.
